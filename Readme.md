@@ -1,16 +1,16 @@
-# ns
+# globalize
 
-JavaScript namespace utility library
+globalize component
 
 ## Installation
 
-    $ npm install ns
+    $ component install onirame/globalize
 
 ## License
 
 (The MIT License)
 
-Copyright (c) 2012 Enrico Marino (http://onirame.no.de)
+Copyright (c) 2013 Enrico Marino
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
