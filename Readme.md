@@ -4,7 +4,7 @@ globalize component
 
 ## Installation
 
-    $ component install onirame/globalize
+    $ component install enricomarino/globalize
 
 ## License
 
