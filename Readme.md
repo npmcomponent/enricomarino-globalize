@@ -1,6 +1,6 @@
 # globalize
 
-globalize component
+Globalize object properties component
 
 ## Installation
 
