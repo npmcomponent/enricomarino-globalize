@@ -13,6 +13,12 @@
 
 exports.globalize = globalize;
 
+/**
+ * global
+ */
+
+var global = window || exports;
+
 /** 
  * globalize
  * globalize the properties of `obj`
@@ -23,6 +29,6 @@ exports.globalize = globalize;
 
 function globalize (obj) {
   for (var property in obj) {
-    exports[property] = obj[property]
+    global[property] = obj[property]
   }
 }
