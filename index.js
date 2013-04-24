@@ -1,4 +1,3 @@
-
 /**
  * globalize
  * globalize component
@@ -17,7 +16,7 @@ exports.globalize = globalize;
  * global
  */
 
-var global = window || exports;
+var global = window || exports; 
 
 /** 
  * globalize
