@@ -10,7 +10,7 @@
  * Expose `gloabalize`
  */
 
-exports.globalize = globalize;
+module.exports = globalize;
 
 /**
  * global
