@@ -1,16 +1,15 @@
 {
   "author": {
     "name": "Enrico Marino",
-    "email": "enrico.marino@email.com",
-    "site": "http://onirame.no.de"
+    "site": "http://enricomarino.com"
   },
-  "name": "ns",
+  "name": "globalize",
   "description": "JavaScript namespace utility library",
   "version": "0.0.1",
-  "homepage": "https://github.com/onirame/ns",
+  "homepage": "https://github.com/enricomarino/globalize",
   "repository": {
     "type": "git",
-    "url": "git://github.com/onirame/ns.git"
+    "url": "git://github.com/enricomarino/globalize.git"
   },
   "main": "index.js",
   "engines": {
