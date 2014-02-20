@@ -1,20 +1,11 @@
 {
-  "author": {
-    "name": "Enrico Marino",
-    "site": "http://enricomarino.com"
-  },
-  "name": "globalize",
-  "description": "JavaScript namespace utility library",
+  "name": "enricomarino-globalize",
+  "description": "globalize component",
   "version": "0.0.1",
-  "homepage": "https://github.com/enricomarino/globalize",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/enricomarino/globalize.git"
-  },
-  "main": "index.js",
-  "engines": {
-    "node": "*"
-  },
+  "keywords": [
+    "global",
+    "object"
+  ],
   "dependencies": {},
-  "devDependencies": {}
+  "license": "MIT"
 }
